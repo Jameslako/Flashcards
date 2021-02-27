@@ -5,3 +5,6 @@ The Flash Card App I created displays a string of text “Capital of Brazil” a
 
 ###App Walkthrough
 Upon launch of the app, it will display a screen asking about the capital of Brazil. Tap in order for the screen to give the answer to the question, “Brasilia”
+
+###App Gif link
+<img src="https://github.com/codepath/testrepo/raw/master/testimagetodisplay.png" width="250" />
